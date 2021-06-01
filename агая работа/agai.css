@@ -1,0 +1,10 @@
+canvas { 
+    background: rgb(156, 116, 116); 
+
+}
+
+img {
+    width: 100px;
+    height: 100px;
+    display: block;
+}
